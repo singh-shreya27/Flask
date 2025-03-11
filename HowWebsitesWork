@@ -1,0 +1,12 @@
+              //How websites work.
+
+//Server :
+//This is a computer or software that provides resources, data, services, or programs to other computers, known as clients, over a network. 
+//Servers are designed to handle requests from multiple clients and are often optimized for reliability, performance, and security.
+
+//Client:
+//A client is a computer or software that requests and receives services, resources, or data from a server. Clients initiate communication with servers to access information or perform tasks,
+//such as fetching web pages, sending emails, or accessing files stored on a network.
+
+//client side scripting: javascript,html
+//server side scripting:python
